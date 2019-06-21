@@ -8,8 +8,8 @@ It changes text in webpage into some other text e.g.
 - password   -->  xxxxxxxx
 - ok         --> 200
 - not        --> !
-- true       --> while(1)
-- false      --> 0
+- True       --> while(1)
+- False      --> 0
 - equal      --> ==
 - Google     --> G-root
 - javascript --> JS
