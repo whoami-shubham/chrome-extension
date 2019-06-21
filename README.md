@@ -1,3 +1,4 @@
+ ![](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 # chrome-extension
 It changes text in webpage into some other text e.g.
 ```js
